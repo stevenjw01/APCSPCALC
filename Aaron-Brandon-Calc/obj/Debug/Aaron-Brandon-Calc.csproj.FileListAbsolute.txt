@@ -1,0 +1,14 @@
+c:\users\willi\source\repos\Aaron-Brandon-Calc\Aaron-Brandon-Calc\bin\Debug\Aaron-Brandon-Calc.exe.config
+c:\users\willi\source\repos\Aaron-Brandon-Calc\Aaron-Brandon-Calc\bin\Debug\Aaron-Brandon-Calc.exe
+c:\users\willi\source\repos\Aaron-Brandon-Calc\Aaron-Brandon-Calc\bin\Debug\Aaron-Brandon-Calc.pdb
+c:\users\willi\source\repos\Aaron-Brandon-Calc\Aaron-Brandon-Calc\obj\Debug\Aaron-Brandon-Calc.csprojResolveAssemblyReference.cache
+c:\users\willi\source\repos\Aaron-Brandon-Calc\Aaron-Brandon-Calc\obj\Debug\Aaron_Brandon_Calc.Form1.resources
+c:\users\willi\source\repos\Aaron-Brandon-Calc\Aaron-Brandon-Calc\obj\Debug\Aaron_Brandon_Calc.Properties.Resources.resources
+c:\users\willi\source\repos\Aaron-Brandon-Calc\Aaron-Brandon-Calc\obj\Debug\Aaron-Brandon-Calc.csproj.GenerateResource.Cache
+c:\users\willi\source\repos\Aaron-Brandon-Calc\Aaron-Brandon-Calc\obj\Debug\Aaron-Brandon-Calc.csproj.CoreCompileInputs.cache
+c:\users\willi\source\repos\Aaron-Brandon-Calc\Aaron-Brandon-Calc\obj\Debug\Aaron-Brandon-Calc.exe
+c:\users\willi\source\repos\Aaron-Brandon-Calc\Aaron-Brandon-Calc\obj\Debug\Aaron-Brandon-Calc.pdb
+c:\users\willi\source\repos\Aaron-Brandon-Calc\Aaron-Brandon-Calc\bin\Debug\Aaron-Brandon-Calc.exe.manifest
+c:\users\willi\source\repos\Aaron-Brandon-Calc\Aaron-Brandon-Calc\bin\Debug\Aaron-Brandon-Calc.application
+c:\users\willi\source\repos\Aaron-Brandon-Calc\Aaron-Brandon-Calc\obj\Debug\Aaron-Brandon-Calc.exe.manifest
+c:\users\willi\source\repos\Aaron-Brandon-Calc\Aaron-Brandon-Calc\obj\Debug\Aaron-Brandon-Calc.application
